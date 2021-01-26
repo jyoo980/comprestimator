@@ -12,7 +12,7 @@
 
 $NumRuns = 10
 
-for ($i = 0; $i -lt ($NumRuns - 1); $i++)
+for ($i = 0; $i -lt $NumRuns; $i++)
 {
     $time_taken = Measure-Command {
         .\comprestimator.exe -s DRP -d "<disk_name>" >> file.log
