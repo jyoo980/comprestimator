@@ -1,0 +1,209 @@
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.1 |        0.1 |       0.3% |              0.3% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 251
+Ticks             : 162510531
+TotalDays         : 0.000188090892361111
+TotalHours        : 0.00451418141666667
+TotalMinutes      : 0.270850885
+TotalSeconds      : 16.2510531
+TotalMilliseconds : 16251.0531
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.2% |              0.2% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 265
+Ticks             : 162654931
+TotalDays         : 0.000188258021990741
+TotalHours        : 0.00451819252777778
+TotalMinutes      : 0.271091551666667
+TotalSeconds      : 16.2654931
+TotalMilliseconds : 16265.4931
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.0 |       0.1% |              0.1% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 251
+Ticks             : 162519650
+TotalDays         : 0.000188101446759259
+TotalHours        : 0.00451443472222222
+TotalMinutes      : 0.270866083333333
+TotalSeconds      : 16.251965
+TotalMilliseconds : 16251.965
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.1 |        0.1 |       0.3% |              0.3% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 263
+Ticks             : 162637309
+TotalDays         : 0.000188237626157407
+TotalHours        : 0.00451770302777778
+TotalMinutes      : 0.271062181666667
+TotalSeconds      : 16.2637309
+TotalMilliseconds : 16263.7309
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.3% |              0.3% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 264
+Ticks             : 162648114
+TotalDays         : 0.000188250131944444
+TotalHours        : 0.00451800316666667
+TotalMinutes      : 0.27108019
+TotalSeconds      : 16.2648114
+TotalMilliseconds : 16264.8114
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.2% |              0.2% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 259
+Ticks             : 162595446
+TotalDays         : 0.000188189173611111
+TotalHours        : 0.00451654016666667
+TotalMinutes      : 0.27099241
+TotalSeconds      : 16.2595446
+TotalMilliseconds : 16259.5446
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.2% |              0.2% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 266
+Ticks             : 162667601
+TotalDays         : 0.000188272686342593
+TotalHours        : 0.00451854447222222
+TotalMinutes      : 0.271112668333333
+TotalSeconds      : 16.2667601
+TotalMilliseconds : 16266.7601
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.2% |              0.2% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 251
+Ticks             : 162515605
+TotalDays         : 0.000188096765046296
+TotalHours        : 0.00451432236111111
+TotalMinutes      : 0.270859341666667
+TotalSeconds      : 16.2515605
+TotalMilliseconds : 16251.5605
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.1 |        0.2 |       0.5% |              0.5% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 263
+Ticks             : 162636944
+TotalDays         : 0.000188237203703704
+TotalHours        : 0.00451769288888889
+TotalMinutes      : 0.271061573333333
+TotalSeconds      : 16.2636944
+TotalMilliseconds : 16263.6944
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.3% |              0.3% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 264
+Ticks             : 162645237
+TotalDays         : 0.000188246802083333
+TotalHours        : 0.00451792325
+TotalMinutes      : 0.271075395
+TotalSeconds      : 16.2645237
+TotalMilliseconds : 16264.5237
+
+
+ Sample#     | Device             | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name              |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+--------------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |cc303gd1600000010&0 |     30.2 |       30.2 |        0.1 |       0.2% |              0.2% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 16
+Milliseconds      : 263
+Ticks             : 162636830
+TotalDays         : 0.000188237071759259
+TotalHours        : 0.00451768972222222
+TotalMinutes      : 0.271061383333333
+TotalSeconds      : 16.263683
+TotalMilliseconds : 16263.683
+
+

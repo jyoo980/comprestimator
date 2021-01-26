@@ -1,0 +1,171 @@
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.8 |        5.0 |      33.8% |             33.8% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 456
+Ticks             : 194568104
+TotalDays         : 0.000225194564814815
+TotalHours        : 0.00540466955555556
+TotalMinutes      : 0.324280173333333
+TotalSeconds      : 19.4568104
+TotalMilliseconds : 19456.8104
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.6 |        5.2 |      35.3% |             35.3% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 456
+Ticks             : 194567729
+TotalDays         : 0.000225194130787037
+TotalHours        : 0.00540465913888889
+TotalMinutes      : 0.324279548333333
+TotalSeconds      : 19.4567729
+TotalMilliseconds : 19456.7729
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.5 |        5.3 |      35.7% |             35.7% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 432
+Ticks             : 194327461
+TotalDays         : 0.000224916042824074
+TotalHours        : 0.00539798502777778
+TotalMinutes      : 0.323879101666667
+TotalSeconds      : 19.4327461
+TotalMilliseconds : 19432.7461
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.8 |        5.1 |      34.1% |             34.1% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 460
+Ticks             : 194604391
+TotalDays         : 0.000225236563657407
+TotalHours        : 0.00540567752777778
+TotalMinutes      : 0.324340651666667
+TotalSeconds      : 19.4604391
+TotalMilliseconds : 19460.4391
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.6 |        5.3 |      35.5% |             35.5% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 426
+Ticks             : 194268335
+TotalDays         : 0.000224847609953704
+TotalHours        : 0.00539634263888889
+TotalMinutes      : 0.323780558333333
+TotalSeconds      : 19.4268335
+TotalMilliseconds : 19426.8335
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.8 |        5.0 |      33.8% |             33.8% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 428
+Ticks             : 194289119
+TotalDays         : 0.000224871665509259
+TotalHours        : 0.00539691997222222
+TotalMinutes      : 0.323815198333333
+TotalSeconds      : 19.4289119
+TotalMilliseconds : 19428.9119
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.9 |        5.0 |      33.5% |             33.5% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 466
+Ticks             : 194668423
+TotalDays         : 0.000225310674768519
+TotalHours        : 0.00540745619444444
+TotalMinutes      : 0.324447371666667
+TotalSeconds      : 19.4668423
+TotalMilliseconds : 19466.8423
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.7 |        5.2 |      34.9% |             34.9% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 466
+Ticks             : 194663135
+TotalDays         : 0.000225304554398148
+TotalHours        : 0.00540730930555556
+TotalMinutes      : 0.324438558333333
+TotalSeconds      : 19.4663135
+TotalMilliseconds : 19466.3135
+
+
+ Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.8 |        5.1 |      34.2% |             34.2% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 466
+Ticks             : 194666310
+TotalDays         : 0.000225308229166667
+TotalHours        : 0.0054073975
+TotalMinutes      : 0.32444385
+TotalSeconds      : 19.466631
+TotalMilliseconds : 19466.631
+
+
