@@ -168,3 +168,22 @@ TotalMinutes      : 0.32444385
 TotalSeconds      : 19.466631
 TotalMilliseconds : 19466.631
 
+
+Sample#     | Device     | Size(GB) | Compressed |   Total    |   Total    | Thin Provisioning | Compression |   Compression
+             |  Name      |          |  Size(GB)  | Savings(GB)| Savings(%) |    Savings(%)     | Savings(%)  | Accuracy Range(%)
+-------------+------------+----------+------------+------------+------------+-------------------+-------------+------------------
+3400         |8&5e12bc6&0 |     14.8 |        9.6 |        5.2 |      35.3% |             35.3% |        0.0% |             5.0%
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 19
+Milliseconds      : 468
+Ticks             : 194682892
+TotalDays         : 0.000225327421296296
+TotalHours        : 0.00540785811111111
+TotalMinutes      : 0.324471486666667
+TotalSeconds      : 19.4682892
+TotalMilliseconds : 19468.2892
+
